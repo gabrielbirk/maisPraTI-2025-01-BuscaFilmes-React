@@ -1,0 +1,9 @@
+.header {
+  text-align: center;
+  font-family: 'Playfair Display', serif;
+  color: #D9C6B0;
+  font-size: 2rem;
+  padding: 1rem 0;
+  border-bottom: 1px solid #A67856;
+  background-color: #2B1A0B;
+}
