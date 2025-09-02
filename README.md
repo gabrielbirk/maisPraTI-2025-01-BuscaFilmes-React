@@ -38,8 +38,8 @@ Mostrar domínio de boas práticas de código.
 
 ## 📸 Capturas de Tela
 
-![Página inicial de busca de filmes](/tela-inicial.png)
-![Página detalhes do filme](/tela-detalhes-filme.png)
+![Página inicial de busca de filmes](/images/tela-inicial.png)
+![Página detalhes do filme](/images/tela-detalhes-filme.png)
 
 👤 Autor
 Gabriel Henrique Birk
